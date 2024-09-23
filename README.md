@@ -2,6 +2,9 @@
 
 Este proyecto implementa un modelo de **Red Neuronal Convolucional (CNN)** para la detección de tumores cerebrales utilizando técnicas de **Deep Learning**. El objetivo principal es ayudar en la identificación temprana de tumores, proporcionando una herramienta de diagnóstico rápido para los profesionales médicos.
 
+### Dataset de Kaggle
+- https://www.kaggle.com/datasets/saisandeepdabbada/brain-mri-scan-dataset/data
+
 ## Descripción del Modelo
 
 La arquitectura de la red está compuesta por:
