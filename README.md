@@ -4,6 +4,8 @@ Este proyecto implementa un modelo de **Red Neuronal Convolucional (CNN)** para 
 
 ### Dataset de Kaggle
 - https://www.kaggle.com/datasets/saisandeepdabbada/brain-mri-scan-dataset/data
+#### En Kaggle tengo publicado el Notebook
+- https://www.kaggle.com/code/jrcosio1/detecci-n-tumor-cerebral-con-cnn-accuracy-96-5
 
 ## Descripción del Modelo
 
